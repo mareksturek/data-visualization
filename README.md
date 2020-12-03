@@ -3,3 +3,6 @@
 # Table of Content
 
 - **Data Visualization**
+
+    - [Boston Housing](https://github.com/mareksturek/data-visualization/notebooks/01_boston_housing.ipynb)
+   
