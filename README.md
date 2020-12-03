@@ -2,7 +2,14 @@
 
 # Table of Content
 
-- **Data Visualization**
 
-    - [Boston Housing](https://github.com/mareksturek/data-visualization/blob/main/notebooks/01_boston_housing.ipynb)   
+- **Misc Plotting**
+
+    - [Matplotlib](https://github.com/mareksturek/data-visualization/blob/main/notebooks/viz_matplotlib_plotting.ipynb)   
+   
+
+
+- **Practical Examples**
+
+    - [Boston Housing](https://github.com/mareksturek/data-visualization/blob/main/notebooks/viz_boston_housing.ipynb)   
    
