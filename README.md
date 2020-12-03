@@ -5,4 +5,4 @@
 - **Data Visualization**
 
     - [Boston Housing](https://github.com/mareksturek/data-visualization/blob/main/notebooks/01_boston_housing.ipynb)   
-    - [Covid-19 EDA](https://github.com/mareksturek/data-visualization/blob/main/notebooks/02_covid_19_eda.ipynb)
+   
