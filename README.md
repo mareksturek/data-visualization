@@ -6,7 +6,7 @@
 - **Misc Plotting**
 
     - [Matplotlib](https://github.com/mareksturek/data-visualization/blob/main/notebooks/viz_matplotlib_plotting.ipynb)   
-   
+    - [Seaborn](https://github.com/mareksturek/data-visualization/blob/main/notebooks/viz_seaborn_plotting.ipynb)   
 
 
 - **Practical Examples**
