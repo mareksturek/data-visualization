@@ -10,6 +10,8 @@
     - [Plotly & Cufflinks](https://github.com/mareksturek/data-visualization/blob/main/notebooks/viz_plotly_cufflinks_plotting.ipynb) 
 
 - **Practical Examples**
-
-    - [Boston Housing](https://github.com/mareksturek/data-visualization/blob/main/notebooks/viz_boston_housing.ipynb)   
-   
+  
+    - [Time Series](https://github.com/mareksturek/data-visualization/blob/main/notebooks/viz_time_series.ipynb)
+    - [Iris Dataset](https://github.com/mareksturek/data-visualization/blob/main/notebooks/viz_iris_dataset.ipynb)
+    - [Titanic EDA](https://github.com/mareksturek/data-visualization/blob/main/notebooks/viz_titanic_eda.ipynb)
+    - [Boston Housing](https://github.com/mareksturek/data-visualization/blob/main/notebooks/viz_boston_housing.ipynb) 
